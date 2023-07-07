@@ -34,7 +34,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 2. Clona este repositorio:
 
     ```sh
-    git clone https://github.com/demstalferez/Reconocimiento-de-Digitos-Escritos-a-Mano.git
+    git clone https://github.com/demstalferez/Reconomiento-de-digitos-con-red-neuronal.git
     ```
 
 3. Navega al directorio clonado e instala las dependencias requeridas:
