@@ -40,7 +40,7 @@ Para ejecutar este proyecto en tu máquina local, sigue estos pasos:
 3. Navega al directorio clonado e instala las dependencias requeridas:
 
     ```sh
-    cd Reconocimiento-de-Digitos-Escritos-a-Mano
+    cd Reconomiento-de-digitos-con-red-neuronal
     pip install -r requirements.txt
     ```
 
